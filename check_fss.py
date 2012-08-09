@@ -9,6 +9,7 @@ SAFEMODE_2012150 = '2012:150:03:33:29'
 
 plt.rc('legend', fontsize=10)
 
+print 'New code'
 
 def plot_2008246_event(id='a', savefig=False):
     if id == 'a':
